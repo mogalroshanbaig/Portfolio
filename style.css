@@ -59,7 +59,7 @@ header {
 /*Front Section*/
 .hero-header {
     position: relative;
-    height: 100vh; /* Adjust as needed */
+    height: auto; /* Adjust as needed */
     background-color: #f9f9f9; /* Set a background color if your image has transparency */
 }
 
